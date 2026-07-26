@@ -27,6 +27,10 @@ Phonebook Management System is a Java web application that allows users to secur
 - Frontend: HTML, CSS, Bootstrap, JSP
 - Backend: Java Servlets, JDBC
 - Database: Oracle SQL
+  ## Screenshots
+
+### Login Page
+![Login Page](login.png)
 
 ## Author
 Charan
