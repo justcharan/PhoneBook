@@ -31,6 +31,10 @@ Phonebook Management System is a Java web application that allows users to secur
 
 ### Login Page
 ![Login Page](login.png)
+![Login Page](home1.png)
+![Login Page](add_contact.png)
+![Login Page](view_contact.png)
+
 
 ## Author
 Charan
