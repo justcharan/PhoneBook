@@ -5,7 +5,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PhoneBook</title>
+<style>
+
+</style>
 </head>
 <body>
 
@@ -40,8 +44,13 @@
             <% } %>
 
             <div class="ms-auto">
+            
 
                 <% if (name == null) { %>
+               
+                 <span  id="apps"class="text-primary text-center fw-bold position-absolute start-50 translate-middle-x  fs-3">
+                 Welcome to Phonebook App</span>
+                 
 
                     <a href="<%=request.getContextPath()%>/login.jsp"
                        class="btn btn-success me-2">Login</a>

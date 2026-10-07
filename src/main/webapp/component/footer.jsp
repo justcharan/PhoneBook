@@ -4,6 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Insert title here</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 
@@ -13,6 +14,7 @@
 <body>
 <footer class="py-3 text-center text ">
 <p><b>&copy;2026 PhoneBook App.All rights Reserved</b></p>
+<p class="text-center"><b> Developed by Ramcharan Reddy</b></p>
 </footer>
 </body>
 </html>
