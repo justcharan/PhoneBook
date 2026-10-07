@@ -17,9 +17,9 @@
 <div class="card p-4"style="width:400px;">
 
 <h3 class="text-success text-center">Register page</h3>
-<div>Full Name:<input type="text" name="name" placeholder="enter your Full name" class="form-control"></div>
-<div>Email:<input type="email" name="email" placeholder="enter your email" class="form-control"></div>
-<div>Password:<input type="password" name="password" placeholder="enter your password" class="form-control"></div><br><br>
+<div>Full Name:<input type="text" name="name" placeholder="enter your Full name" class="form-control"></div><br>
+<div>Email:<input type="email" name="email" placeholder="enter your email" class="form-control"></div><br>
+<div>Password:<input type="password" name="password" placeholder="enter your password" class="form-control"></div><br>
 <div class="text-center">
 <button type="submit" class="btn btn-primary w-100">Register</button>
 </div>

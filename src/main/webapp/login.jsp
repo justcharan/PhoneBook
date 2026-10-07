@@ -18,7 +18,7 @@
 
 <div class="mb-3">Email:<input type="email" name="email" class="form-control"></div>
 <div>Password:<input type="password" name="password" class="form-control"></div><br>
-<br>
+
 <div>
 <input type="Submit"class="btn btn-primary w-100" value="login">
 </div>
